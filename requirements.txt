@@ -1,0 +1,13 @@
+codecs==latest
+urllib3==latest
+nltk==latest
+pandas==latest
+numpy==latest
+wordcloud==latest
+scikit-learn==latest
+matplotlib==latest
+seaborn==latest
+gensim==latest
+tensorflow==latest
+keras==latest
+tqdm==latest
